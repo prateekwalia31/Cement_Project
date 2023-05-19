@@ -27,13 +27,9 @@ This project deals with a comparative analysis of different Machine Learning (ML
 
 ## Model Development and Evaluation
 
-For predicting cement compressive strength, three regression models were evaluated (KNN Regressor,  Random Forest Regressor, andExtreme Gradient Boosting (XGB)) using different metrics including R-squared, RMSE, MSE, and MAE values.
-
-An ensemble model was also built by combining the KNN, Random Forest, and XGB models using a voting regressor.
+For predicting cement compressive strength, three regression models were evaluated (KNN Regressor,  Random Forest Regressor, andExtreme Gradient Boosting (XGB)) using different metrics including R-squared, RMSE, MSE, and MAE values. An ensemble model was also built by combining the KNN, Random Forest, and XGB models using a voting regressor.
 
 ## Results and Conclusion
 
-Each model was tested using the evaluation metrics R-squared score, RMSE, MSE, and MAE values. To evaluate the performance of each model based on the graphically, a bar chart was created for the four metrics.
-
-The Colab Notebook contains the project's code and findings. Please refer to the notebook for more information and step-by-step details on data preprocessing, model development, and evaluation.
+Each model was tested using the evaluation metrics R-squared score, RMSE, MSE, and MAE values. To evaluate the performance of each model based on the graphically, a bar chart was created for the four metrics. The Colab Notebook contains the project's code and findings. Please refer to the notebook for more information and step-by-step details on data preprocessing, model development, and evaluation.
 
